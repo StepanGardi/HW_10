@@ -1,0 +1,129 @@
+    1  cd repository/
+    2  mkdir repository
+    3  cd repository/
+    4  git confing --global user.name "Stepan Yurash"
+    5  git confin --global u
+    6  git config --global
+    7  git config --global user.name "Stepan Yurash"
+    8  git config --global user.name
+    9  git config --global user.email "yarash1stepan@gmail.com"
+   10  git config --global user.email
+   11  git clone https://github.com/StepanGardi/HW_10.git
+   12  cd HW_10
+   13  touch text_ignore.txt
+   14  git status
+   15  git add .gitignore
+   16  git add .gitignore
+   17  git status
+   18  git add.
+   19  git add .
+   20  git add .gittignore
+   21  git add .gitignore
+   22  commit -m "task1"
+   23  git commit -m "task1"
+   24  git ctatus
+   25  git status
+   26  ls -1
+   27  touch main_text.txt
+   28  git add .
+   29  git commit -m
+   30  git commit -m .
+   31  ls -1
+   32  git branch
+   33  git checkout -b develop
+   34  ls -l
+   35  touch develop_test.txt
+   36  git add .
+   37  git commit -m "just a small change"
+   38  git status
+   39  git add .
+   40  git commit -m .
+   41  ls -1
+   42  git checkout main
+   43  ls -1
+   44  git checkout develop
+   45  git checkout main
+   46  ls -1
+   47  git checkout develop
+   48  git checkout main
+   49  ls-1
+   50  ls -1
+   51  git marge develop
+   52  git merge develop
+   53  ls -l
+   54  git log
+   55  history > command_list.csv
+   56  git add .
+   57  git commit -m .
+   58  git push
+   59  git push
+   60  git brach
+   61  git branch
+   62  git push 
+   63  git pull
+   64  mkdir repositor
+   65  cd repositor/
+   66  git config --global user.name "Stepan Yurash"
+   67  git config --global user.name
+   68  git config --global user.email "yarash1stepan@gmail.com"
+   69  git config --global user.email
+   70  git clone https://github.com/StepanGardi/HW_10.git
+   71  cd HW_10
+   72  touch text_ignore.txt
+   73  git add .gitignore
+   74  git commit -m "Added .ditignore"
+   75  git commit -m "task1"
+   76  git add .gitignore
+   77  git status
+   78  git add .
+   79  git status
+   80  git commit -m "task1"
+   81  nano .gitignore
+   82  git status
+   83  git add .
+   84* 
+   85  git commit -m 
+   86  git commit -m .
+   87  tuoch main_text.txt
+   88  touch main_text.txt
+   89  git add .
+   90  git commit -m .
+   91  git checkout -b develop
+   92  ls -l
+   93  git status
+   94  touch develop_test.txt
+   95  git add .
+   96  git commit -m .
+   97  nano develop_text.txt
+   98  git status
+   99  git add .
+  100  git add .
+  101  git commit -m .
+  102  git status
+  103  git commit -m .
+  104  git push
+  105  git push
+  106  git status
+  107  git add "Added just a small change"
+  108* git add ""
+  109  git commit -m .
+  110  git commid -m "Added just a small change"
+  111  git commit -m .
+  112* 
+  113  touch develop
+  114  touch develop_test.txt
+  115  git add .
+  116  git commit -m .
+  117  git status
+  118  nano develop_text.txt
+  119  git status
+  120  git add .
+  121  git commit -m .
+  122  git push
+  123  git checkout main
+  124  la -l
+  125  ls -l
+  126  git merge develop
+  127  ls -1
+  128  git pull origin main
+  129  history > command_list.csv
